@@ -1,0 +1,2 @@
+export 'package:animation_starter_code/implicit_examples/animated_color_pallete.dart';
+export 'package:animation_starter_code/implicit_examples/animated_shopping_cart_button.dart';
