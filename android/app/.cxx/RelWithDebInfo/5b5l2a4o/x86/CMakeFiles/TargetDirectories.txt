@@ -1,0 +1,2 @@
+C:/Users/Obialor/StudioProjects/animations_starter_code/android/app/.cxx/RelWithDebInfo/5b5l2a4o/x86/CMakeFiles/edit_cache.dir
+C:/Users/Obialor/StudioProjects/animations_starter_code/android/app/.cxx/RelWithDebInfo/5b5l2a4o/x86/CMakeFiles/rebuild_cache.dir
